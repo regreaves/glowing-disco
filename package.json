@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "build": "node ./scripts/build.mjs",
+    "create:document": "node ./scripts/create_document.mjs",
+    "destroy": "node ./scripts/destroy.mjs"
+  }
+}
